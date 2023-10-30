@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazon-job-openings-tracker",
+  "private_key_id": "7cfdf6938e770ca4950b38825868235181ab6f31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD0AnudAWLe61uv\nZuBAdIa/jCf7wYu5gZg4Ai7t53zf+HbOr0/KU4S7xH+Xp7vNVs4BUExTpMpL2TlC\nDIKrlaLpj8qktrBXRnUxKNfTHEXHNs00dYvBz0gUR4LuV/x/Tff44eRXo/K7C2JQ\nn98eDAzkXRdiMEC5lUR3sdkJi/N1XmtYcGwG9falqEl7DaFi14ytebhaWb0RglHh\nslGYtFtL7Nt0I3+BgjOin/N8m/heH64zuHt5rDfxS2SLS3aI4LJmYajsDa7zrEMR\nvZPUZG6J9vipZPo0KC1DR10Oh6Y3qJgrSbwIXgcEqoa8vnCo8jMt38V0+8e8qZDe\nW5g71Vc7AgMBAAECggEAJEQkNDMrCz/G2jx7kwjeqCSAItJi3njs81IbwH851535\npoF25fbg0PmFDzi+WGgQ6TASkBH7gSdxc6ghWbg9ROJ6t11xux79Nwe/gCCBHHlA\nKY5Y7b7NkzoHsz3/iLpBY0vLoNz8rCEmhR4lzrTyy5QscAsE67BMQ0/7Foim8CgE\nlyD2Z3MhTNgAdPb/ollemKRZJaoHxzPFxarGoWHcQ+OBSss75uJw6zis7tIGjaH1\nfXSkLKAJ/GyIqbk3jdnQPJ3gyo46ITyB3kzPs1o5CrWovDlwGFfWz2BDM49eB3/5\n+1L8jyUV/26IfcvOYH7mh2EWP5KNsUhE5jWUPs/iHQKBgQD8Y+LtPCosNwH/XFSg\nMgQ2UO4WAVqMAXtoTwhqn+rVL97G/UryI9FvxvL9UuJLDfUAwNKrpv1TuAJFPPlb\n/pCTuMYIQNxeDobwK3EJ1HVEYPtyy+g5FdsPdLT9/Z0o3DNIoCFUggX3eVHJYLyO\newVaVOdmB+e7yolXhCswO85gPwKBgQD3f+lnEzBg7HrdHcBca2vTufdiAkmtKQG4\n7S19DRceHkTLWlsC0TQ+/C8bJ7CFYviexcZL10AplT7y6Ko/C1JdWXaIcD3Y/1vH\nBMSslSOnFI5cq9KpcatmLpP8VEZlQphlz0gag9fn5b4p/Mr9LR3FOH05miGCXR74\nipnj7DUKBQKBgQCfUgZ7rxEIHCk8o3IgNbKG/wtsBKq92mmmbM1pUU2SCcfdYSMg\nOxAIOVRGKT4EFulj8lSKWr1rTarRPi5Cri1hsq//ocH59b2keie/BsiHw5i23JTZ\nBDzmQsvF0YSVuHr/C2Y+zF0r3P+N2WztnCbC4Pm5ZKAZ4T5Vam9A4V/jTQKBgQCE\nUCGbNSr75fCZHTqlLdhrTFPwVYDFzdJZ5pIW9FSTiWMFw7w7+VORCIi2X7WC2bJI\nTzr/eIeYs2z/t1qscYUK2rT/o+GsjHeoIehyyxhQTjD9Ye4xH8+dxPDgSL2JjNyk\nMPg/FJTsKGpNUBPE3cW4lcZ8cOXRJ69S9+Xlb3W7cQKBgQDjunkZakUVPCJUKjd6\nXh0NhBz1+PkF+/7niTIo2z20RURI1Bwc5s0Y/ySIq+YRdZ7hFx0/FEnr4P9Vsm9a\nc155uyLSDFOeaJLYTbKx+ycUYMKJK2JEVK9roocKwODLDyT7hs+uje3Bang6Oe77\nG274v606k/GJAlmkKdNon3rmWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lulujiao@amazon-job-openings-tracker.iam.gserviceaccount.com",
+  "client_id": "115783263773608712299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lulujiao%40amazon-job-openings-tracker.iam.gserviceaccount.com"
+}
