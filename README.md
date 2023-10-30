@@ -3,4 +3,4 @@
 
 • Employed BeautifulSoup for targeted data extraction, complemented by Pandas for structured data organization.
 
-• Employed the Google Sheets API in conjunction with Pygsheets to write and update data within Google Sheets
+• Employed the Google Cloud API in conjunction with Pygsheets to write and update data within Google Sheets
